@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practise-Dotnet-Application.props" />
+</Project>
